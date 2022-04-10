@@ -1,2 +1,2 @@
-# time_series
-Repository related to time series experimentation 
+# air_passangers
+Project related to tradidional  time series technique 
